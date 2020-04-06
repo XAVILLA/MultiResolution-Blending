@@ -1,3 +1,5 @@
+Full project report:https://inst.eecs.berkeley.edu/~cs194-26/sp20/upload/files/proj2/cs194-26-act/
+
 Results from this assignments can be reproduced by running the main.py
 
 Part1.1:
